@@ -8,6 +8,7 @@ This repository provides a code for
 The code is build upon the mcmc cosmology code by Pierre.
 
 Nandini Sahu added the following
+0- predicted cosmology using only Beta_12
 1- Probability distribution function of individual and joint constraints 
 2- 2D probability density plots and joint constraints from independent studies 
 3- 1D and 2D distribution plots.

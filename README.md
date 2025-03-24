@@ -1,4 +1,4 @@
-This project is in preparation...
+This project is in preparation... Please cite Sahu et al. (2025) if you use DSPL data from here
 
 This repository provides a code for 
 1- extracting cosmology using distance ratio obtained from lens modeling using mcmc

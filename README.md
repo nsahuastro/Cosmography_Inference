@@ -1,5 +1,3 @@
-This project is in preparation... Please cite Sahu et al. (2025) if you use DSPL data from here
-
 This repository provides a code for 
 1- extracting cosmology using distance ratio obtained from lens modeling using mcmc
 2- joint constraints with other independent lensing studies

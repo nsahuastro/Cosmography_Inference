@@ -1,16 +1,13 @@
-This repository provides a code for 
-1- extracting cosmology using distance ratio obtained from lens modeling using mcmc
+This repository provides a python notebook (cosmology_using_Beta12_wCDM.ipynb ) for 
+1- inferring cosmological parameters using distance ratio obtained from lens modeling 
 2- joint constraints with other independent lensing studies
 3- joint constraints with other classical probes of cosmology.
 
-The code is build upon the mcmc cosmology code by Pierre.
+The code is reads mcmc chain obtained from lens modeling and
+1- predicts/infers cosmological parameters using Beta_12 for two paradiagms Lambda CDM and wCDM
+2- Obtains Probability distribution function of individual and joint constraints 
+3- Generates 2D probability density plots 
+4- Calculats joint probability density combining AGEL1507 inference with constraints from other independent studies such Collett+14, SNe, BAO, and Planck.
+5- 1D and 2D probability distribution plots.
 
-Nandini Sahu added the following
-0- predicted cosmology using only Beta_12
-1- Probability distribution function of individual and joint constraints 
-2- 2D probability density plots and joint constraints from independent studies 
-3- 1D and 2D distribution plots.
-
-The current constraints are for the LCDM model and wCDM only, but I plan to add constraints for other general cosmological models as well.
-
-Please credit Pierre and Nandini if you are using this code. Thank you
+Please cite Sahu et al. (2025, https://arxiv.org/abs/2504.00656) is you use the code or data form this repository. 

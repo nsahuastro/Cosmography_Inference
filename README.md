@@ -16,6 +16,7 @@ This repository contains code and notebooks for cosmological inference using dou
 - Run the notebook `cosmology_using_Beta12_wCDM.ipynb` in Jupyter or VSCode.
 - Ensure all required data files (lens model outputs, CMB chains, SNe and BAO chains) are present in the working directory.
 - The notebook is modular and can be adapted for other lens systems or cosmological probes.
+- **Note:** Please contact the project owner to obtain the MCMC chain for DSPL AGEL1507 (file size >100MB).
 
 ## Dependencies
 
